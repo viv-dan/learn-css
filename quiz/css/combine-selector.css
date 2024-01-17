@@ -1,13 +1,20 @@
 body {
-    background-color: aliceblue;
-  }
-  
-  h1 {
-    color: blue;
-    text-align: center;
-  }
+  background-color: aliceblue;
+}
 
-  p {
-    font-size: 3em;
-    font-style: italic;
-  }
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+p.sub {
+  color: green;
+  font-size: 3em;
+  font-style: italic;
+}
+
+p.main {
+  color: red;
+  font-size: 3em;
+  font-style: italic;
+}
